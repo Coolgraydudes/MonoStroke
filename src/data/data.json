@@ -25,6 +25,22 @@
   },
   {
     "id": 4,
+    "title": "Gesture Drawing Basics",
+    "lessons": 16,
+    "duration": "2h 20m",
+    "level": "Beginner",
+    "image": "/images/car.gif"
+  },
+  {
+    "id": 5,
+    "title": "Still Life Sketching",
+    "lessons": 14,
+    "duration": "2h 05m",
+    "level": "Beginner",
+    "image": "/images/car.gif"
+  },
+  {
+    "id": 6,
     "title": "Anatomy for Artists",
     "lessons": 28,
     "duration": "4h 40m",
@@ -32,7 +48,7 @@
     "image": "/images/car2.gif"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Digital Illustration for Beginners",
     "lessons": 25,
     "duration": "4h 20m",
@@ -40,7 +56,7 @@
     "image": "/images/car2.gif"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Color Theory & Composition",
     "lessons": 24,
     "duration": "3h 55m",
@@ -48,7 +64,23 @@
     "image": "/images/car2.gif"
   },
   {
-    "id": 7,
+    "id": 9,
+    "title": "Environment Drawing",
+    "lessons": 21,
+    "duration": "3h 15m",
+    "level": "Intermediate",
+    "image": "/images/car2.gif"
+  },
+  {
+    "id": 10,
+    "title": "Figure Drawing Practice",
+    "lessons": 26,
+    "duration": "4h 05m",
+    "level": "Intermediate",
+    "image": "/images/car2.gif"
+  },
+  {
+    "id": 11,
     "title": "Character Sketch Mastery",
     "lessons": 30,
     "duration": "5h 00m",
@@ -56,7 +88,7 @@
     "image": "/images/wewewe.gif"
   },
   {
-    "id": 8,
+    "id": 12,
     "title": "Advanced Portrait Rendering",
     "lessons": 32,
     "duration": "5h 25m",
@@ -64,7 +96,7 @@
     "image": "/images/wewewe.gif"
   },
   {
-    "id": 9,
+    "id": 13,
     "title": "Concept Art for Games",
     "lessons": 35,
     "duration": "6h 10m",
@@ -72,11 +104,27 @@
     "image": "/images/wewewe.gif"
   },
   {
-    "id": 10,
+    "id": 14,
     "title": "Ink & Line Art Techniques",
     "lessons": 19,
     "duration": "2h 50m",
     "level": "Beginner",
     "image": "/images/car.gif"
+  },
+  {
+    "id": 15,
+    "title": "Advanced Composition & Storytelling",
+    "lessons": 29,
+    "duration": "5h 05m",
+    "level": "Advanced",
+    "image": "/images/wewewe.gif"
+  },
+  {
+    "id": 16,
+    "title": "Digital Painting Masterclass",
+    "lessons": 34,
+    "duration": "6h 30m",
+    "level": "Advanced",
+    "image": "/images/wewewe.gif"
   }
 ]
