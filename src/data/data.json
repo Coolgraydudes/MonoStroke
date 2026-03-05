@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Pencil Drawing",
+    "lessons": 18,
+    "duration": "2h 45m",
+    "level": "Beginner",
+    "image": "/images/car.gif"
+  },
+  {
+    "id": 2,
+    "title": "Shading & Lighting Techniques",
+    "lessons": 22,
+    "duration": "3h 10m",
+    "level": "Beginner",
+    "image": "/images/car.gif"
+  },
+  {
+    "id": 3,
+    "title": "Perspective Drawing Fundamentals",
+    "lessons": 20,
+    "duration": "3h 30m",
+    "level": "Beginner",
+    "image": "/images/car.gif"
+  },
+  {
+    "id": 4,
+    "title": "Anatomy for Artists",
+    "lessons": 28,
+    "duration": "4h 40m",
+    "level": "Intermediate",
+    "image": "/images/car2.gif"
+  },
+  {
+    "id": 5,
+    "title": "Digital Illustration for Beginners",
+    "lessons": 25,
+    "duration": "4h 20m",
+    "level": "Intermediate",
+    "image": "/images/car2.gif"
+  },
+  {
+    "id": 6,
+    "title": "Color Theory & Composition",
+    "lessons": 24,
+    "duration": "3h 55m",
+    "level": "Intermediate",
+    "image": "/images/car2.gif"
+  },
+  {
+    "id": 7,
+    "title": "Character Sketch Mastery",
+    "lessons": 30,
+    "duration": "5h 00m",
+    "level": "Advanced",
+    "image": "/images/wewewe.gif"
+  },
+  {
+    "id": 8,
+    "title": "Advanced Portrait Rendering",
+    "lessons": 32,
+    "duration": "5h 25m",
+    "level": "Advanced",
+    "image": "/images/wewewe.gif"
+  },
+  {
+    "id": 9,
+    "title": "Concept Art for Games",
+    "lessons": 35,
+    "duration": "6h 10m",
+    "level": "Advanced",
+    "image": "/images/wewewe.gif"
+  },
+  {
+    "id": 10,
+    "title": "Ink & Line Art Techniques",
+    "lessons": 19,
+    "duration": "2h 50m",
+    "level": "Beginner",
+    "image": "/images/car.gif"
+  }
+]

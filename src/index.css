@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --font-mono-me: "JetBrains Mono", monospace;
+    --font-brush: "Caveat Brush", cursive;
+}
