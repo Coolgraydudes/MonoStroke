@@ -21,12 +21,12 @@ export default function Home() {
 
             </div> */}
 
-            <div className="flex items-center flex-col justify-center h-screen">
+            {/* <div className="flex items-center flex-col justify-center h-screen">
                 <h1 className="font-serif text-2xl">
                     <span className="font-mono-me font-bold text-5xl">W</span>ork 
                     <span className="font-mono-me font-bold text-5xl">I</span>n 
                     <span className="font-mono-me font-bold text-5xl">P</span>rogres</h1>
-            </div>
+            </div> */}
         </>
     )
 }

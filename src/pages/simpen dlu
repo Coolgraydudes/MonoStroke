@@ -1,4 +1,4 @@
-import { useParams } from "react-router";
+<!-- import { useParams } from "react-router";
 import data from "../data/data.json";
 
 export default function CourseDetail() {
@@ -49,4 +49,67 @@ export default function CourseDetail() {
       </div>
     </div>
   );
-}
+} -->
+
+_____________________________________________________________________________________
+
+
+
+<!-- export default function Home() {
+
+  // 1️⃣ Huruf yang mau ditampilin
+  // Kamu tadi mau: m,o,n,o,s,t,r,k
+  const letters = [
+    { char: "M", top: "10%" },
+    { char: "O", top: "60%" },
+    { char: "N", top: "25%" },
+    { char: "O", top: "80%" },
+    { char: "S", top: "40%" },
+    { char: "T", top: "15%" },
+    { char: "R", top: "65%" },
+    { char: "K", top: "30%" },
+  ];
+
+  return (
+    // 2️⃣ Background halaman
+    <div className="min-h-screen bg-white overflow-hidden">
+
+      {/* 3️⃣ Jumlah garis vertikal */}
+      {/* grid-cols-8 karena ada 8 huruf */}
+      <div className="grid grid-cols-8 h-screen">
+
+        {letters.map((item, i) => (
+          <div
+            key={i}
+
+            // 4️⃣ Garis vertikal
+            className="relative border-r border-gray-300"
+          >
+
+            <span
+              // 5️⃣ Posisi huruf di garis (atas bawah)
+              style={{ top: item.top }}
+
+              // 6️⃣ Styling huruf
+              className="
+                absolute 
+                left-1/2 
+                -translate-x-1/2
+                text-[10rem]     /* ukuran huruf */
+                font-black       /* ketebalan */
+                font-mono-me     /* font kamu */
+                text-black       /* warna */
+                leading-none
+              "
+            >
+              {item.char}
+            </span>
+
+          </div>
+        ))}
+
+      </div>
+
+    </div>
+  );
+} -->
